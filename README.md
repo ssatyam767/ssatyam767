@@ -1,8 +1,8 @@
-##Hi there, it's Satyam 👋 (_ssatyam767_)##
+## Hi there, it's Satyam 👋 (_ssatyam767_) ##
 
 
-###I have a rich experience in leading data gathering, data cleaning and data analyzing; skilled in building Machine Learning models for predictions and classifications.
-Excellence in translating real-world business challenges into Analytics Frameworks and delivers strategic recommendations back to the client in E2E project from Ideation to Evaluation and Model Deployment involving complete Data Science Lifecycle.###
+### I have a rich experience in leading data gathering, data cleaning and data analyzing; skilled in building Machine Learning models for predictions and classifications.
+Excellence in translating real-world business challenges into Analytics Frameworks and delivers strategic recommendations back to the client in E2E project from Ideation to Evaluation and Model Deployment involving complete Data Science Lifecycle. ###
 
 Language: Python
 Data Analysis: Numpy, Pandas
