@@ -13,4 +13,4 @@ Unsupervised Learning : Clustering (K-means), Hierarchical Clustering
 Text Analytics : TF-IDF, Senitment Analysis
 Miscellaneous : Principal Component Analysis (PCA).
 
-Apart from above, I have good experience in the Design and Development of software solutions.
+**Apart from above, I have good experience in the Design and Development of software solutions.**
