@@ -1,5 +1,6 @@
 ## Hi there, it's Satyam 👋 (_ssatyam767_) ##
-![image](https://user-images.githubusercontent.com/58839905/139522580-d42b265f-a0da-4e90-a528-0b55ff031aa9.png)
+![image](https://user-images.githubusercontent.com/58839905/139523669-a23dc3dd-6cdc-4adc-84bb-beb18f3f0fc4.png)
+
 
 
 ### I have a rich experience in leading data gathering, data cleaning and data analyzing; skilled in building Machine Learning models for predictions and classifications. ###
