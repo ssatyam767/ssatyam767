@@ -1,6 +1,6 @@
 ## Hi there, it's Satyam 👋 (_ssatyam767_) ##
+![image](https://user-images.githubusercontent.com/58839905/139522580-d42b265f-a0da-4e90-a528-0b55ff031aa9.png)
 
-![sat_bg_transparent_small](https://user-images.githubusercontent.com/58839905/139522543-7d947274-c950-4859-aeda-82a251c30351.png)
 
 ### I have a rich experience in leading data gathering, data cleaning and data analyzing; skilled in building Machine Learning models for predictions and classifications. ###
 ### Excellence in translating real-world business challenges into Analytics Frameworks and delivers strategic recommendations back to the client in E2E project from Ideation to Evaluation and Model Deployment involving complete Data Science Lifecycle. ###
