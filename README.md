@@ -3,12 +3,11 @@
 
 
 
-### I have a rich experience in leading data gathering, data cleaning and data analyzing; skilled in building Machine Learning models for predictions and classifications. ###
-### Excellence in translating real-world business challenges into Analytics Frameworks and delivers strategic recommendations back to the client in E2E project from Ideation to Evaluation and Model Deployment involving complete Data Science Lifecycle. ###
+### I have a rich experience I have a rich experience in Developing, maintaining, and managing advanced reporting, analytics, dashboards and other BI solutions using Tableau.###
 
 #### Language: Python ####
 #### Data Analysis: Numpy, Pandas ####
-#### Data Visualization: Matplotlib, Seaborn, Excel ####
+#### Data Visualization: Matplotlib, Seaborn, Excel, Tableu, Power BI ####
 #### Statistical Analysis: Descriptive, EDA, Inferential, Sampling, Hypothesis Testing (Z-Test, T-Test, ANOVA), Probability Distribution, Outlier Detection. ####
 #### Classification/Modeling : Decision Tree, Random Forest, Linear Regression, Logistic Regression, KNN, Support Vector Machine (SVM), Naive Baye's Classifier. ####
 #### Unsupervised Learning : Clustering (K-means), Hierarchical Clustering ####
