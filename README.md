@@ -3,15 +3,22 @@
 
 
 
-### I have a rich experience I have a rich experience in Developing, maintaining, and managing advanced reporting, analytics, dashboards and other BI solutions using Tableau.###
+👋 Hello! I'm Satyam here, a seasoned Business Analyst at Lenskart with a passion for transforming raw data into meaningful insights. With a keen eye for detail and a knack for uncovering trends, I specialize in leveraging data to drive strategic business decisions.
 
+📊 In my role at Lenskart, I've successfully navigated complex datasets to provide actionable insights, contributing to the company's growth and market leadership. My expertise lies in data analysis, visualization, and translating technical findings into business-friendly language.
+
+🚀 Recently, I've rekindled my GitHub journey to share my latest projects and stay connected with the thriving tech community. Expect to find repositories showcasing my skills in data manipulation, statistical modeling, and data-driven storytelling.
+
+🌐 Whether you're a fellow data enthusiast, a potential collaborator, or someone simply curious about the world of data analytics, feel free to explore my repositories and drop me a message. Let's connect, learn, and innovate together!
+
+🔗 Connect with me on LinkedIn: [ https://www.linkedin.com/in/ssatyam767/ ]
+
+Happy coding! 💻✨
+
+---
+
+Feel free to personalize it further to better reflect your unique experiences, skills, and aspirations!
 #### Language: Python ####
 #### Data Analysis: Numpy, Pandas ####
 #### Data Visualization: Matplotlib, Seaborn, Excel, Tableu, Power BI ####
 #### Statistical Analysis: Descriptive, EDA, Inferential, Sampling, Hypothesis Testing (Z-Test, T-Test, ANOVA), Probability Distribution, Outlier Detection. ####
-#### Classification/Modeling : Decision Tree, Random Forest, Linear Regression, Logistic Regression, KNN, Support Vector Machine (SVM), Naive Baye's Classifier. ####
-#### Unsupervised Learning : Clustering (K-means), Hierarchical Clustering ####
-#### Text Analytics : TF-IDF, Senitment Analysis ####
-#### Miscellaneous : Principal Component Analysis (PCA). ####
-
-**Apart from above, I have good experience in the Design and Development of software solutions.**
